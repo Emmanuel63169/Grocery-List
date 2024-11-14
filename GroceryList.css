@@ -1,0 +1,92 @@
+/* General */
+
+img{ 
+    width: 15%;
+    margin-left: 40%;
+    display: block;
+}
+
+table, td{
+border: 1px;
+}
+
+/* Main Header */
+h1{
+    color: green;
+    border: 5px double black;
+    margin: 5px 5px 5px 230px;
+    display: inline-block;
+}
+ 
+/* Section 1 */
+.fridge-h2{
+    color: red;
+    border: 5px solid black;
+}
+
+.fridge-h3{
+    background-color: gainsboro;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.fridge-li{
+    background-color: darkseagreen;
+    display: inline-block;
+    padding: 20px;
+}
+
+/* Section 2 */
+.pantry-h2{
+    color: yellowgreen;
+    border: 5px solid black;
+}
+
+.pantry-h3{
+    background-color: gainsboro;
+    display: inline-block;
+    vertical-align: top;
+  
+}
+
+.pantry-li{
+    background-color: cadetblue;
+    display: inline-block;
+    padding: 20px;
+}
+
+/* Section 3 */
+.cleanup-h2{
+    color: blueviolet;
+    border: 5px solid black;
+}
+
+.cleanup-h3{
+    background-color: gainsboro;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.cleanup-li{
+    background-color: bisque;
+    display: inline-block;
+    padding: 20px;
+}
+
+/* Section 4 */
+.misc-h2{
+    color: cadetblue;
+    border: 5px solid black;
+}
+
+.misc-li{
+    background-color: darkturquoise;
+    display: inline-block;
+    padding: 20px;
+
+}
+
+/* Personal Index */
+/* -_-_-_-  */
+/* -_-_-_- width: (X)%; -_-_-_- */
+/* -_-_-_- display: inline-block; -_-_-_- */
